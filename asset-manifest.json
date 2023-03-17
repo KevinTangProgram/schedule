@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/schedule/static/js/main.a8650726.js",
+    "index.html": "/schedule/index.html",
+    "main.a8650726.js.map": "/schedule/static/js/main.a8650726.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a8650726.js"
+  ]
+}
